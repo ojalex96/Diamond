@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diamond", "Diamond\Diamond.csproj", "{A09B23B9-890C-46C5-AA50-1054B688E2C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiamondTests", "DiamondTests\DiamondTests.csproj", "{BD77CF1D-AFBC-4349-B00B-F4CF2B9A0B18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A09B23B9-890C-46C5-AA50-1054B688E2C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A09B23B9-890C-46C5-AA50-1054B688E2C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A09B23B9-890C-46C5-AA50-1054B688E2C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A09B23B9-890C-46C5-AA50-1054B688E2C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD77CF1D-AFBC-4349-B00B-F4CF2B9A0B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD77CF1D-AFBC-4349-B00B-F4CF2B9A0B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD77CF1D-AFBC-4349-B00B-F4CF2B9A0B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD77CF1D-AFBC-4349-B00B-F4CF2B9A0B18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C71FE567-69ED-4429-A7A2-E0ED21E0B2FE}
+	EndGlobalSection
+EndGlobal
